@@ -48,11 +48,12 @@ pip install numpy scipy matplotlib ipython
 3. **Visualization and Animation:**
    - The script generates several plots:
      - Time-series plots for each mass.
+   
        <img src="Solutions of the Coupled System for 2 Variables.png" width="450">
      - Combined motion plots showcasing the superposition of normal modes.
        <img src="Motion of 2 Coupled Masses Using Normal Modes.png" width="450">
      - Subplots for individual normal modes with corresponding angular frequencies.
-       <img src="Each Normal Modes.png" width="450">
+       <img src="Each Normal Modes.png" width="700">
    - An animation is created to visually represent the movement of the masses over time. If running in a Jupyter Notebook or Canvas environment that supports HTML display, the animation will be embedded.
 
 ## Contributing
