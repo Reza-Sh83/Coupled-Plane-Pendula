@@ -1,7 +1,7 @@
 # %% [markdown]
 # # N Parallel-Coupled Plane Pendula
 # 
-# This notebook explores the dynamics of two coupled plane pendula connected by a spring. Using both analytical and numerical methods, we examine the normal modes, angular frequencies, and total motion of the system. We'll also include visualizations to help understand the motion.
+# This notebook explores the dynamics of N coupled plane pendula connected by a spring. Using both analytical and numerical methods, we examine the normal modes, angular frequencies, and total motion of the system. We'll also include visualizations to help understand the motion.
 # 
 # ## Objectives
 # 1. Derive and solve the equations of motion.
